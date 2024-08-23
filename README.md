@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abd3lbasith
 - 👀 I’m interested in Data Science and Artifical Intelligence
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me basith.abdul@torontomu.ca
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Left Handed
