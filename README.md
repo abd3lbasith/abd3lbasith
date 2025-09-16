@@ -1,5 +1,5 @@
 ## Hello! 👋 I’m Basith Abdul 🚀
-🎓 3rd-Year Computer Science Co-op Student at Toronto Metropolitan University (Dean’s List 🏅 | CGPA 3.72/4.33)
+🎓 3rd-Year Computer Science Co-op Student at Toronto Metropolitan University (Dean’s List 🏅 | CGPA 3.4/4.33)
 ## 🔭 Current Projects
 🤖 AI-Powered Job Application Tracker – Full-stack project leveraging Python, Streamlit, and SQL to manage and visualize job applications.
 💬 Learning Chatbot – Python chatbot with JSON-based memory that learns from user inputs.
